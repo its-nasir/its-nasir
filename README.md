@@ -9,7 +9,7 @@ Hello, I'm Md Nasir
 
 ## 👨🏾‍💻 ABOUT ME
 
-<p>Md Nasir is an Fresher Web Developer. have knowledge  front-end(HTML5, CSS3, React js and Javascript) to back-end(Node Js, Express Js and PostgreSQL).</p>
+<p>Md Nasir is an Fresher Web Developer. have knowledge  front-end(HTML5, CSS3,and Javascript) to back-end(Node Js, Express Js and ).</p>
 
 
 ## ☎️ CONTACT ME
